@@ -1,4 +1,4 @@
-##Static Factory Methods
+## Static Factory Methods
 
 ```javascript
     class Coordinate {
