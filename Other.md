@@ -1,0 +1,2 @@
+- Eliminate obsolete object references, don't forget to clear caches & listeners.
+- Avoid creating duplicate objects. `new String()`
